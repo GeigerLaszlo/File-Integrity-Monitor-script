@@ -16,7 +16,7 @@ File-Integrity-Monitor script is a simple Python program designed to monitor the
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/GeigerLaszlo/File-Integrity-Monitor-scriptFile-Integrity-Monitoring.git
+   git clone https://github.com/GeigerLaszlo/File-Integrity-Monitor-script.git
    cd File-Integrity-Monitoring
 
 ## Usage
