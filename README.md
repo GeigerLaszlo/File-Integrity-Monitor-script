@@ -24,7 +24,7 @@ File-Integrity-Monitor script is a simple Python program designed to monitor the
 Run the main program with the directory you want to monitor as a required argument. You can also optionally specify a different hash file:
 
 ```sh
-python src/checker.py <directory> [hash_file]
+python3 src/checker.py <directory> [hash_file]
 ```
 
 - `<directory>`: The path to the directory you want to monitor.
