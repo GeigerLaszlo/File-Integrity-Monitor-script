@@ -30,4 +30,6 @@ python3 src/checker.py <directory> [hash_file]
 - `<directory>`: The path to the directory you want to monitor.
 - `[hash_file]` (optional): The path to the hash file to use (default is `file_hashes.json`).
 
+## Hash Algorithm
 
+The File-Integrity-Monitor script uses the MD5 (Message Digest Algorithm 5) to compute and store hash values for files.
